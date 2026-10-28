@@ -5,6 +5,8 @@ Rallye-raid étudiant en coop, low-poly, avec un mode Arcade sur circuits jusqu'
 
 ## Télécharger
 
+[![Version](https://img.shields.io/github/v/release/badb0ol/RoadbookRally-download?style=flat-square&label=version%20actuelle&color=29130f)](https://github.com/badb0ol/RoadbookRally-download/releases/latest)
+
 Clique sur ta plateforme : la dernière version se télécharge directement.
 
 [![Windows](https://img.shields.io/badge/Windows-Télécharger-bd2f29?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/badb0ol/RoadbookRally-download/releases/latest/download/RoadbookRally.exe)
@@ -12,6 +14,16 @@ Clique sur ta plateforme : la dernière version se télécharge directement.
 [![Android](https://img.shields.io/badge/Android-Télécharger-d75140?style=for-the-badge&logo=android&logoColor=white)](https://github.com/badb0ol/RoadbookRally-download/releases/latest/download/RoadbookRally.apk)
 
 [Toutes les versions](https://github.com/badb0ol/RoadbookRally-download/releases) · pour jouer ensemble, tout le monde doit avoir la même version (écrite en bas du menu du jeu).
+
+## Quoi de neuf dans la 0.26
+
+- **Rallye à plusieurs équipages en LAN** : 2 à 4 joueurs, chacun sa voiture et son propre parcours, classement commun.
+- **Nouveau roadbook** en haut au centre : la case en cours en grand, la précédente et la suivante en transparence, « dans 350 m » avec une barre qui se remplit, la direction en mots.
+- **Flèches orange** vers la prochaine chose à faire (réparations à pied, bonne piste aux intersections) et « Mauvaise direction ».
+- **Menu pause** (Échap ou ❚❚) avec retour au menu principal.
+- **Moteur noyé réparable** à la main, et de nombreuses corrections (co-op, jerrican, look de la voiture dès l'étape 1…).
+
+[Le détail de la version](https://github.com/badb0ol/RoadbookRally-download/releases/latest)
 
 ## Installer
 
@@ -25,8 +37,9 @@ Clique sur ta plateforme : la dernière version se télécharge directement.
 
 - **Rallye** (solo ou à deux) : 5 étapes (dunes, montagne ou neige, oueds, nuit, reg), navigation au roadbook et au cap, pannes à réparer à la main, sponsors, bivouac et atelier.
 - **Coop** : l'un pilote, l'autre lit le roadbook. *Héberger* d'un côté, *Rejoindre* de l'autre (même Wi-Fi).
+- **Rallye à plusieurs équipages** (LAN, 2 à 4 joueurs) : chacun seul dans sa voiture, chacun son parcours, même arrivée et classement commun.
 - **Arcade** : 6 circuits, drifts et mini-turbos, tremplins, pads de boost, caisses bonus. En LAN de 2 à 4 joueurs, chacun dans sa voiture : *Arcade* → *Héberger en LAN*, les autres font *Rejoindre*.
 
-**Touches** : ZQSD / WASD ou flèches pour conduire, Espace frein à main (maintenu en Arcade : drift), C vue, F sortir / agir, R remorquage ou remise en piste, L phares, K klaxon, X bonus. Manette reconnue.
+**Touches** : ZQSD / WASD ou flèches pour conduire, Espace frein à main (maintenu en Arcade : drift), C vue, F sortir / agir, R remorquage ou remise en piste, L phares, K klaxon, X bonus, Échap pause. Manette reconnue.
 
 Ce dépôt ne contient que les téléchargements ; le jeu est développé à part.
