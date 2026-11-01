@@ -15,16 +15,6 @@ Clique sur ta plateforme : la dernière version se télécharge directement.
 
 [Toutes les versions](https://github.com/badb0ol/RoadbookRally-download/releases) · pour jouer ensemble, tout le monde doit avoir la même version (écrite en bas du menu du jeu).
 
-## Quoi de neuf dans la 0.26
-
-- **Rallye à plusieurs équipages en LAN** : 2 à 4 joueurs, chacun sa voiture et son propre parcours, classement commun.
-- **Nouveau roadbook** en haut au centre : la case en cours en grand, la précédente et la suivante en transparence, « dans 350 m » avec une barre qui se remplit, la direction en mots.
-- **Flèches orange** vers la prochaine chose à faire (réparations à pied, bonne piste aux intersections) et « Mauvaise direction ».
-- **Menu pause** (Échap ou ❚❚) avec retour au menu principal.
-- **Moteur noyé réparable** à la main, et de nombreuses corrections (co-op, jerrican, look de la voiture dès l'étape 1…).
-
-[Le détail de la version](https://github.com/badb0ol/RoadbookRally-download/releases/latest)
-
 ## Installer
 
 | Plateforme | Comment |
